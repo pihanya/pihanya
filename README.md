@@ -39,7 +39,7 @@
     <!-- Perfonal info: Left column -->
     <td>
       <br/>
-      👨&nbsp; 21 y.o. Java/Kotlin Senior Software Engineer<br/>
+      👨&nbsp; 22 y.o. Java/Kotlin Senior Software Engineer<br/>
       <br/>
       🛠️&nbsp; 4+ years of production experience (Java/Kotlin)<br/>
       &nbsp;&nbsp;&nbsp;<br/>
