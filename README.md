@@ -39,9 +39,9 @@
     <!-- Perfonal info: Left column -->
     <td>
       <br/>
-      👨&nbsp; 22 y.o. Java/Kotlin Senior Software Engineer<br/>
+      👨&nbsp; 23 y.o. Java/Kotlin Senior Software Engineer<br/>
       <br/>
-      🛠️&nbsp; 4+ years of production experience (Java/Kotlin)<br/>
+      🛠️&nbsp; 5+ years of production experience (Java/Kotlin)<br/>
       &nbsp;&nbsp;&nbsp;<br/>
       <br/>
       📝&nbsp; <a href="https://bit.ly/3dt2rrX">Oracle</a> & <a href="https://bit.ly/3mCFHam">Huawei</a> certified professional<br/>
