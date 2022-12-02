@@ -112,7 +112,7 @@
       <!-- Contribution: gitlab-org/gitlab -->
       <a href="https://gitlab.com/gitlab-org/gitlab">
         <img atl="GitLab Banner" height="118px" height="auto"
-             src="https://aws1.discourse-cdn.com/business4/uploads/gitlab/original/2X/5/56c9a827b2c62e0ba9d8eeaf5a412a3ea0a677f0.png"/>
+             src="./static/img/gitlab-logo.png"/>
        </a>
       <!--&nbsp;&nbsp;&nbsp;-->
     </td>
