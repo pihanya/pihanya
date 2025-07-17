@@ -39,9 +39,9 @@
     <!-- Perfonal info: Left column -->
     <td>
       <br/>
-      👨&nbsp; 23 y.o. Java/Kotlin Senior Software Engineer<br/>
+      👨&nbsp; 25 y.o. Java/Kotlin Senior Software Engineer<br/>
       <br/>
-      🛠️&nbsp; 5+ years of production experience (Java/Kotlin)<br/>
+      🛠️&nbsp; 7+ years of production experience (Java/Kotlin)<br/>
       &nbsp;&nbsp;&nbsp;<br/>
       <br/>
       📝&nbsp; <a href="https://bit.ly/3dt2rrX">Oracle</a> & <a href="https://bit.ly/3mCFHam">Huawei</a> certified professional<br/>
@@ -59,7 +59,7 @@
       🎓&nbsp; Studying at <a href="https://en.wikipedia.org/wiki/ITMO_University">ITMO University</a>,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saint Petersburg, Russia<br/>
       <br/>
-      🚀&nbsp; Interested in stock market analytics<br/>
+      🚀&nbsp; Interested in AI and stock market analytics<br/>
       &nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;<br/>
