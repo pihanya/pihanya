@@ -34,6 +34,13 @@
 <!--![Pihanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pihanya&hide_title=true&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)-->
 
 <table>
+  <!-- Row 0: About me label -->
+  <tr>
+    <td colspan="2" align="center">
+      <strong>👤&nbsp; About me</strong></br/>
+    </td>
+  </tr>
+
   <!-- Column [1,2]. Row 1: Personal info -->
   <tr>
     <!-- Perfonal info: Left column -->
@@ -67,7 +74,7 @@
       &nbsp;&nbsp;&nbsp;<br/>
     </td>
   </tr>
-  
+
   <tr>
     <!-- Column 1. Row [2,3]: ⚙️ Engineering on... -->
     <td rowspan="2" align="center">
@@ -80,7 +87,7 @@
     <!-- Column 1. Row 3: Noticeable projects label -->
     <td><strong>👏&nbsp; Noticeable projects</strong></td>
   </tr>
-  
+
   <!--  Column 2. Row 3: Noticeable projects repos   -->
   <tr>
     <!-- Pihanya/forthress -->
