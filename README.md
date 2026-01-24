@@ -48,7 +48,7 @@
       &nbsp;&nbsp;&nbsp;<br/>
       <br/>
       <strong>🔗&nbsp; Feel free to contact me</strong><br/>
-      <a href="https://t.me/pihanya"><img width="42px" src="https://osx.telegram.org/updates/site/logo.png"/>
+      <a href="https://t.me/pihanya"><img width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png"/>
       <a href="https://www.linkedin.com/in/pihanya/"><img width="42px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"/>
     </td>
     <!-- Perfonal info: Right column -->
