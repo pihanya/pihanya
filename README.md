@@ -88,14 +88,14 @@
       <a href="https://github.com/pihanya/forthress">
         <img alt="Pihanya/forthress"
              width="100%"
-             src="https://github-readme-stats.vercel.app/api/pin/?username=pihanya&repo=forthress&show_owner=true&theme=onedark" />
+             src="https://github-readme-stats.vercel.app/api/pin/?username=bepiscorp&repo=kommodity&show_owner=true&theme=onedark" />
       </a>
       <br/>
       <!-- Pihanya/olimp-java -->
       <a href="https://github.com/Pihanya/olimp-java">
         <img alt="Pihanya/olimp-java"
              width="100%"
-             src="https://github-readme-stats.vercel.app/api/pin/?username=pihanya&repo=olimp-java&show_owner=true&theme=onedark" />
+             src="https://github-readme-stats.vercel.app/api/pin/?username=bepiscorp&repo=unified-ui-specs&show_owner=true&theme=onedark" />
       </a>
     </td>
   </tr>
