@@ -63,7 +63,7 @@
       <br/>
       🏆&nbsp; Fond of hackathons and winning them<br/>
       <br/>
-      🎓&nbsp; Studying at <a href="https://en.wikipedia.org/wiki/ITMO_University">ITMO University</a>,<br/>
+      🎓&nbsp; Master's degree <a href="https://en.wikipedia.org/wiki/ITMO_University">ITMO University</a>,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Saint Petersburg, Russia<br/>
       <br/>
       🚀&nbsp; Interested in AI and stock market analytics<br/>
