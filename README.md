@@ -92,14 +92,14 @@
   <tr>
     <!-- Pihanya/forthress -->
     <td>
-      <a href="https://github.com/pihanya/forthress">
+      <a href="https://github.com/bepiscorp/kommodity">
         <img alt="Pihanya/forthress"
              width="100%"
              src="https://github-readme-stats.vercel.app/api/pin/?username=bepiscorp&repo=kommodity&show_owner=true&theme=onedark" />
       </a>
       <br/>
       <!-- Pihanya/olimp-java -->
-      <a href="https://github.com/Pihanya/olimp-java">
+      <a href="https://github.com/bepiscorp/unified-ui-specs">
         <img alt="Pihanya/olimp-java"
              width="100%"
              src="https://github-readme-stats.vercel.app/api/pin/?username=bepiscorp&repo=unified-ui-specs&show_owner=true&theme=onedark" />
