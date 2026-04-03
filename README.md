@@ -31,7 +31,7 @@
 </details>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=pihanya&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)-->
-<!--![Pihanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pihanya&hide_title=true&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)-->
+<!--![Pihanya's GitHub stats](https://github-readme-stats.shion.dev/api?username=pihanya&hide_title=true&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)-->
 
 <table>
   <!-- Row 0: About me label -->
@@ -81,7 +81,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Top languages"
              width="90%"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pihanya&hide=Jupyter%20Notebook&custom_title=%E2%9A%99%EF%B8%8F%20Engineering%20on...&theme=gruvbox" />
+             src="https://github-readme-stats.shion.dev/api/top-langs/?username=pihanya&hide=Jupyter%20Notebook&custom_title=%E2%9A%99%EF%B8%8F%20Engineering%20on...&theme=gruvbox" />
       </a>
     </td>
     <!-- Column 1. Row 3: Noticeable projects label -->
